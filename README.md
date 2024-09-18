@@ -4,5 +4,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSeo-git&show_icons=true&theme=radical)
 
-- 🔭 I’m interested in the Frontend!
+- 🔭 I’m a Frontend Developer!
 - 🌱 I like cooperation and communication!
